@@ -1,6 +1,6 @@
 ## Logistics-Management-System:
 A system called the Logistics Management System (LMS) was created to offer package information at any time. The fundamental problems in logistics, such as product theft and inadequate product information during transportation from point A to point B, were addressed by this concept. 
- 
+
 ## Advantages of LMS:
 - Provides Information at any time about the package
 * Control Window to monitor the data provided by the module
