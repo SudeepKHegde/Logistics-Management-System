@@ -3,6 +3,7 @@ A system called the Logistics Management System (LMS) was created to offer packa
 
 ![My Image](LMS(Ckt)-Setup.jpg)
 ## Advantages of LMS:
+- Trucks travel the entire nation, and this gadget may conduct surveys on the state of the roads to inform the government about the need for maintenance. 
 - Provides Information at any time about the package
 * Control Window to monitor the data provided by the module
 + Sensing Modules to prevent theft and unknown replacements
